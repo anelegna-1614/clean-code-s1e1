@@ -86,7 +86,8 @@ button {
   font-family: Lato, sans-serif;
   color: #888;
 }
-.item__text-input:focus {
+.item__text-input:focus,
+.add-item__input:focus {
   color: #333;
 }
 
